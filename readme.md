@@ -10,4 +10,4 @@
 
 ### Work Projects:
 
-My data science portfolio can be found [here](https://github.com/parksu111/ds_portfolio).
+My data science portfolio can be found [here](https://github.com/parksu111/research_portfolio).
