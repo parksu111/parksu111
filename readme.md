@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sung-Ho Park
 - 🌱 I’m a Data Scientist, working with data to solve real world problems.
-- I used to be Research Specialist (Neuroscience) at the University of Pennsylvania Perelman School of Medicine. I studyied the temporal regulation of REM sleep in mammals.
+- I used to be a researcher at the University of Pennsylvania Perelman School of Medicine. I studied the temporal regulation of REM sleep in mammals.
 
 
 ### Publications:
