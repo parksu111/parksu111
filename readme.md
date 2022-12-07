@@ -4,11 +4,26 @@
 
 
 ### Publications:
+A Probabilistic Model for the Ultradian Timing of REM Sleep in Mice. **S-H Park**, J. Baik, J.Hong, B. Kurland, S. Chung, F. Weber. *PLOS Computational Biology* (2021)
+* [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009316)
+* [Github Repo](https://github.com/parksu111/REM_GMM)
 
-[A Probabilistic Model for the Ultradian Timing of REM Sleep in Mice](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009316). **S-H Park**, J. Baik, J.Hong, B. Kurland, S. Chung, F. Weber. *PLOS Computational Biology* (2021)
-
-[Neural and Homeostatic Regulation of REM sleep](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01662/full). **Sung-Ho Park** and Franz Weber. Frontiers in Pscyhology (2020)
+Neural and Homeostatic Regulation of REM sleep. **Sung-Ho Park** and Franz Weber. Frontiers in Pscyhology (2020)
+* [Paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01662/full)
 
 ### Work Projects:
+
+#### Minds & Co.
+* KOSMES Global Startup Academy
+  * [Sleep State Classification](https://aiconnect.kr/competition/detail/209/)
+  * [Map Image Segmentation](https://aiconnect.kr/competition/detail/211/)
+  * [Github Repo](https://github.com/parksu111/gsa_2022)
+* NIPA 2022 Online AI Competition
+  * Website
+  * Github Repo
+
+#### Weber Lab, Perelman School of Medicine, University of Pennsylvania
+* Sleep State Annotation Tool
+* Automatic Sleep State Classification
 
 My data science portfolio can be found [here](https://github.com/parksu111/research_portfolio).
