@@ -21,7 +21,5 @@
   * [Github Repo](https://github.com/parksu111/nipa2022)
 
 #### Weber Lab, Perelman School of Medicine, University of Pennsylvania
-* Sleep State Annotation Tool
-* Automatic Sleep State Classification
-
-My data science portfolio can be found [here](https://github.com/parksu111/research_portfolio).
+* [Sleep State Annotation Tool](https://github.com/parksu111/sleep-annotation)
+* Automatic Sleep State Classification [Model](https://github.com/parksu111/mouse_sleep_auto_classification/blob/main/overview.ipynb) | [Weber Lab Pipeline](https://github.com/parksu111/skynet)
