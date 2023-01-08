@@ -22,4 +22,4 @@ Neural and Homeostatic Regulation of REM sleep. **Sung-Ho Park** and Franz Weber
 
 #### Weber Lab, Perelman School of Medicine, University of Pennsylvania (2018.09 ~ 2021.08)
 * [Sleep State Annotation Tool](https://github.com/parksu111/sleep-annotation)
-* Automatic Sleep State Classification [Model](https://github.com/parksu111/mouse_sleep_auto_classification/blob/main/overview.ipynb) | [Weber Lab Pipeline](https://github.com/parksu111/skynet)
+* Automatic Sleep State Classification | [Model](https://github.com/parksu111/mouse_sleep_auto_classification/blob/main/overview.ipynb) | [Weber Lab Pipeline](https://github.com/parksu111/skynet)
