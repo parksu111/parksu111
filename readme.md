@@ -10,7 +10,7 @@ Neural and Homeostatic Regulation of REM sleep. **Sung-Ho Park** and Franz Weber
 
 ### Work Projects:
 
-#### Minds & Co.
+#### Minds & Co. (2021.11 ~ Present)
 * KOSMES Global Startup Academy
   * [Sleep State Classification](https://aiconnect.kr/competition/detail/209/)
   * [Map Image Segmentation](https://aiconnect.kr/competition/detail/211/)
@@ -20,6 +20,6 @@ Neural and Homeostatic Regulation of REM sleep. **Sung-Ho Park** and Franz Weber
   * [Pipe Leak Type Classification](https://aichallenge.or.kr/competition/detail/1/task/9/taskInfo)
   * [Github Repo](https://github.com/parksu111/nipa2022)
 
-#### Weber Lab, Perelman School of Medicine, University of Pennsylvania
+#### Weber Lab, Perelman School of Medicine, University of Pennsylvania (2018.09 ~ 2021.08)
 * [Sleep State Annotation Tool](https://github.com/parksu111/sleep-annotation)
 * Automatic Sleep State Classification [Model](https://github.com/parksu111/mouse_sleep_auto_classification/blob/main/overview.ipynb) | [Weber Lab Pipeline](https://github.com/parksu111/skynet)
