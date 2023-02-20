@@ -13,7 +13,7 @@ Neural and Homeostatic Regulation of REM sleep. **Sung-Ho Park** and Franz Weber
 #### Minds & Co. (2021.11 ~ Present)
 * KOSMES Global Startup Academy
   * [Sleep State Classification](https://aiconnect.kr/competition/detail/209/)
-  * [Map Image Segmentation](https://aiconnect.kr/competition/detail/211/)
+  * [Map Image Segmentation](https://github.com/parksu111/map-segmentation)
   * [Github Repo](https://github.com/parksu111/gsa_2022)
 * [2022 NIPA Online AI Competition](https://github.com/parksu111/nipa2022)
 
